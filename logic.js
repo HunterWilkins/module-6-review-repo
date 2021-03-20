@@ -1,6 +1,7 @@
-var apiKey = "1b35c1f40fb9e08bfe8aa7e40421037a";
 // api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
 
+//NOTE: I removed my API Keys, as you guys should when you push.
+// NEVER FORGET TO REMOVE/HIDE YOUR API KEYS! 
 
 function getWeatherData(city, stateCode) {
     // var city = "austin";
